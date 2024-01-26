@@ -1,3 +1,12 @@
-# University Schema
+# University Database
 
-## I developed this database to practice the SQL skills I developed through my Azure Coding Bootcamp. This database was created in Azure Data Studio. I used PowerQuery in  ADF (Azure Data Factory) to push data into my schemas. From this small project, I learned how to develop schemas,  move data using stored procedures in ADF, and run queries against a dataset.
+I developed this database to practice the SQL skills I acquired during the ZyberTech Azure Coding Bootcamp. This database was created in Azure Data Studio. Because I am on a MacOS, I downloaded Microsoft Remote Desktop and used a virtual machine to host Azure Data Studio. I will be using a JDBC connection in Azure Databricks to pull my dataset from the Azure SQL database.
+
+## Key Skills
+* Stored Procedure in ADF
+* SQL JOINS
+* Schema Development
+* Creating Procedures
+* Group By
+* Views
+* Database Management
